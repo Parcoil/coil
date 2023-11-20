@@ -18,8 +18,10 @@
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
     "@tomphttp/bare-server-node": "^2.0.0",
+    "cd": "^0.3.3",
+    "coil-proxy": "github:Parcoil/coil-static",
     "express": "^4.18.2",
-    "ultraviolet-static": "github:titaniumnetwork-dev/Ultraviolet-Static"
+    "ultraviolet-static": "github:Parcoil/coil-static"
   },
   "devDependencies": {
     "eslint": "^8.36.0",
