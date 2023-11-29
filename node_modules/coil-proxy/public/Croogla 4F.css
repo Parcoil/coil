@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'Croogla 4F';
+	src: url(fonts/Croogla4F.eot) format('embedded-opentype'),
+	url(fonts/Croogla4F.eot) format('embedded-opentype'),
+	url(fonts/Croogla4F.woff2) format('woff2'),
+	url(fonts/Croogla4F.woff) format('woff'),
+	url(fonts/Croogla4F.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
