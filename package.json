@@ -11,9 +11,10 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "proxy",
+    "coil"
   ],
-  "author": "",
+  "author": "Parcoil Network",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
